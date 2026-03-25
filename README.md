@@ -4,8 +4,11 @@ Add "Sign in with Google" alongside email/password authentication using Supabase
 
 ## Quick Start
 
+**1. Fork this repo** — Click the **Fork** button at the top right of this page.
+
+**2. Clone your fork:**
 ```bash
-git clone https://github.com/LoisBN/fpp-google-oauth.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/fpp-google-oauth.git
 cd fpp-google-oauth
 npm install
 ```
